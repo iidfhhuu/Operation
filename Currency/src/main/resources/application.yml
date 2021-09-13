@@ -1,0 +1,3 @@
+config:
+#  extend-path: 'file:C:\Users\matt\Desktop\公司\ChatBot\chatbot\tpigateway\\tpigateway-${spring.profiles.active}.properties'
+  extend-path: 'classpath:application.properties'
